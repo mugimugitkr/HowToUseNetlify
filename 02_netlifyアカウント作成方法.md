@@ -1,6 +1,6 @@
 # netlifyアカウント作成方法
 
-1. 以下のURLにアクセスし、「Sign Up」をクリックする
+1. 以下のURLにアクセスし、「Sign Up」をクリックする  
 https://www.netlify.com/
   ![画像](./img/netlify.png)
 
